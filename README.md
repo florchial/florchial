@@ -18,7 +18,7 @@
 ```js
 const skills = {
   languages: ["Java", "Kotlin", "JavaScript", "TypeScript", "Go"],
-  frontend: ["Angular", "Astro", "React", "Tailwind"],
+  frontend: ["Angular", "Astro", "React", "Tailwind", "Node"],
   backend: ["Spring", "Vertx"],
   cloud: ["AWS"],
   database: ["DynamoDB", "MySql", "Redis"]
