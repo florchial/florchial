@@ -40,7 +40,7 @@ I see technology as a form of art, a canvas waiting to be painted.
 ---
 
 ## 📫 Connect with me  
-- 💼 [LinkedIn](www.linkedin.com/in/maria-florencia-chialvo-75b77b143)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/maria-florencia-chialvo-75b77b143/)  
 
 ---
 
