@@ -10,7 +10,8 @@
 - 🧭 Former tech lead and engineer manager, passionate about guiding teams for building scalable solutions.  
 - 🔧 Strong background in backend development, with experience designing and maintaining robust systems.  
 - 📚 Deeply inspired by art, art history, and books.  
-- 🧉 Coffee and mate are my coding sidekicks.  
+- 🧉 Coffee and mate are my coding sidekicks.
+- 🐱 Proud cat mom — occasional pair programming partners.
 
 ---
 
