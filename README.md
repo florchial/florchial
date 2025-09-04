@@ -41,12 +41,12 @@ I see technology as a form of art, a canvas waiting to be painted.
 ---
 
 ## 📫 Connect with me  
-- 💼 <a href="https://www.linkedin.com/in/maria-florencia-chialvo-75b77b143/" target="_blank">LinkedIn</a>
+- 💼 [LinkedIn](https://www.linkedin.com/in/maria-florencia-chialvo-75b77b143/)
 ---
 
 ## 🙋‍♀️ More about me
-- 📱<a href="https://florchial.github.io/about-me/" target="_blank"> Check my portfolio </a>
-- 📂 [Download my CV](https://github.com/florchial/about-me/blob/main/docs/assets/files/chialvo-mf-cv.pdf)
+- 📱 [Check my portfolio](https://florchial.github.io/about-me/)
+- 📂 [Download my CV]([https://github.com/florchial/about-me/blob/main/docs/assets/files/chialvo-mf-cv.pdf](https://florchial.github.io/about-me/docs/assets/files/chialvo-mf-cv.pdf))
 
 ⭐️ *“The best code is the one that makes the reader smile.”*  
 
