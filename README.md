@@ -46,7 +46,7 @@ I see technology as a form of art, a canvas waiting to be painted.
 
 ## 🙋‍♀️ More about me
 - 📱 [Check my portfolio](https://florchial.pages.dev/)
-- 📂 [Download my CV](https://florchial.github.io/about-me/docs/assets/files/chialvo-mf-cv.pdf)
+- 📂 [Download my CV](https://florchial.pages.dev/files/chialvo-mf-cv.pdf)
 
 ⭐️ *“The best code is the one that makes the reader smile.”*  
 
