@@ -1,6 +1,6 @@
 # 🌸 Hi there, I'm Flor! 👩🏻‍💻
 
-✨ Systems Engineer | 🔧 Backend & Fullstack Experience  | 💻 Freelancer
+✨ Systems Engineer | 🔧 Backend & Fullstack Experience 
 
 ---
 
