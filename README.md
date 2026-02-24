@@ -6,7 +6,7 @@
 
 ## 🚀 About Me  
 - 👩🏻‍🎓 Graduated as a Systems Engineer from UTN (Universidad Tecnológica Nacional - Buenos Aires, Argentina 🇦🇷).
-- 🌐 Freelance engineer with 10+ years of experience in the software industry.  
+- 🌐 Software Engineer with 10+ years of experience in the software industry.  
 - 🧭 Former tech lead and engineer manager, passionate about guiding teams for building scalable solutions.  
 - 🔧 Strong background in backend development, with experience designing and maintaining robust systems.  
 - 📚 Deeply inspired by art, art history, and books.  
